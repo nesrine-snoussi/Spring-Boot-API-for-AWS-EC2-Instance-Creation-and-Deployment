@@ -47,6 +47,8 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+          <finalName>kaka</finalName>
+
     </build>
 
 </project>
