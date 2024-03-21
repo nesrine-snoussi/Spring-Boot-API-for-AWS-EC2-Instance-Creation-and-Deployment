@@ -5,7 +5,7 @@ This API allows you to create an Amazon EC2 instance programmatically using AWS 
 ## API Endpoints
 
 ### Create EC2 Instance
-Note: These Terraform templates create real resources in your AWS account.
+Note: This API create real resources in your AWS account.
 
 - **URL:** `POST /api/ec2/create`
 
